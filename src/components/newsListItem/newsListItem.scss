@@ -1,0 +1,11 @@
+.news__item {
+  width: 20%;
+  margin: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+
+  a {
+    word-wrap: break-word;
+  }
+}
